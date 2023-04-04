@@ -1,0 +1,36 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: 0.45px;
+    font-feature-settings: 'liga' off;
+    color: #111111;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.sub-text {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.308px;
+}
+
+a {
+    color: #888888;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1400FF;
+}
+
+.text-wrapper {
+    position: sticky;
+    top: 3rem;
+    margin-bottom: 3rem;
+}
